@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px 150px;
+}
+nav ul li {
+    list-style: none;
+
+}
+
+main #img2{
+    width: 100%;
+}
+header{
+    margin-top:18px;
+    position: relative;
+    
+
+}
+main div p span{
+    bottom: 4.3px;
+}
+#thefirsthr{
+    position: relative;
+    top: 60px;
+    width: 100%;
+
+}
+
+header div {
+    position: relative;
+}
+header div h1{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 50px;
+}
+header div img,h1{
+    float: left;
+
+}
+
+header div p{
+    clear: both;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+header nav {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+
+    float: right;
+}
+
+header nav ul{
+    position: relative;
+}
+
+header nav ul li{
+    right: 10px;
+    display: inline-block;
+
+}
+
+main {
+    clear: both;
+    margin: 80px 0px;
+}
+
+main div {
+    float: left;
+}
+
+main div p{
+    color:gray;
+    margin-top: 60px;
+
+}
+main div h1{
+    margin-bottom: auto;
+}
+
+main #img1{
+    float: right;
+    position: relative;
+    left: 680px;
+
+}
+
+main div span{
+    float: right;
+    position: relative;
+    left: 740px;
+    color: gray;
+}
+
+form{
+    background-image: url(chocolate-pizza2/list-bg.png);
+    height: 305px;
+    margin-bottom: 40px;
+}
+
+#colmn1{
+    float: left;
+    margin: 45px;
+}
+
+#colmn2{
+    float: right;
+    margin: 45px;
+   
+}
+
+
+#button {
+    position: relative;
+    left: 900px;
+    bottom: 45px;
+    background-color: brown;
+    color: cornsilk;
+    border: none;
+    width: 150px;
+    height: 50px;
+
+
+}
+
+#form{
+    font-size: 22px;
+}
+
+#hername{
+    margin-left: 90px;
+}
+
+#hernamep{
+    margin-left: 90px;
+
+}
+#vancontanier{
+    position: relative;
+}
+
+#vanimg{
+    position: absolute;
+}
+
+.stylehr{
+    background-image: url(img/hr-img.png);
+    height: 20px;
+}
+
+footer{
+    text-align: center;
+    color: darkgray;
+}
+
+.underhr {
+    width: 48%;
+    display: inline-block
+
+  
+}
+
+#seclogo{
+    opacity: 0.5;
+    width: 3%;
+    height: 30px;
+    margin: -5px 5px;
+}
+© 2021 GitHub, Inc.
